@@ -1,0 +1,3 @@
+export const ADD_DATA = 'ADD_DATA'
+export const DEL_MEMBER = "DEL_MEMBER"
+export const DEL_SELECTED_MEMBER = 'DEL_SELECTED_MEMBER'
